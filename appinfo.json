@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "koudac@gmail.com",
+    "longName": "FullInfos",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Batterie100.png",
+                "name": "ICONE_BLUETOOTH_100",
+                "type": "png"
+            },
+            {
+                "file": "images/MyWatchface-Fond.png",
+                "name": "FOND_VIDE",
+                "type": "png"
+            },
+            {
+                "file": "images/MyWatchface-Test.png",
+                "menuIcon": true,
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FullInfos",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "3b6fe38b-e96c-42d2-a026-5186c4d3b461",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
